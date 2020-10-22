@@ -1,0 +1,16 @@
+How to load the cheat?
+
+1. Load up R6,
+2. Wait on operator screen in main menu,
+3. Load "OmegaCheatsv.1.4.7.bat" and let its load the core processes and configs,
+4. Go into game and press INSERT to open menu.
+
+How to make a config? - NOTE: Settings reset every time the cheat is closed.
+
+If you want to make a config then:
+1. Head to the config folder (OmegaCheatsv.1.4.7\config),
+2. Make a file called "settings.cfg",
+3. Load up the cheat as shown above,
+4. Tick anti-ban and pick all the settings you want to auto load,
+5. Leave the game and close down R6,
+6. Enjoy your config!
