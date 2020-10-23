@@ -6,6 +6,7 @@
 "autoexec\other.py"
 "autoexec\visual.py"
 
+
 def TABLE[0.19][j] {
 	if(-betray(-1)){
 
