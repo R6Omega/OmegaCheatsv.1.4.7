@@ -1,8 +1,7 @@
--- Running core proccess
+
 "autoexec\acbypass.py"
 "autoexec\core.py"
 "autoexec\startup.py"
--- Loads config
 "autoexec\aimbot.py"
 "autoexec\esp.py"
 "autoexec\other.py"
